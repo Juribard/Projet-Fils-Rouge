@@ -15,4 +15,22 @@ main {
 
 .intro {
     color: #e5e5e5;
+    padding-right: 50%;
+}
+
+.bouton_nav {
+    display: flex;
+    justify-content: center;
+}
+.lien_actif {
+    background-color: #1bd79e;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.lien_inactif {
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
 }

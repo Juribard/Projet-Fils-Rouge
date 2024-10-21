@@ -1,0 +1,9 @@
+footer {
+    font-size: small;
+}
+
+.footer1 {
+    color: #808080;
+    display: flex;
+    justify-content: center;
+}
