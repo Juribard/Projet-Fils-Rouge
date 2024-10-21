@@ -1,0 +1,16 @@
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.en-tete {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    font-size: medium;
+}
+
+.icone-espacement {
+    margin: 0 5px 0 5px;
+}
