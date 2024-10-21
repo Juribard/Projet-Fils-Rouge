@@ -1,5 +1,5 @@
 main {
-    margin: 0px 100px 0px 100px;
+    margin: 0px 150px 0px 150px;
 }
 
 .presentation {
@@ -42,8 +42,6 @@ main {
 .photo {
     margin: 10px;
     display: flex;
-    justify-content: center;
-    
     flex-wrap: wrap;
 }
 .photo_ind {

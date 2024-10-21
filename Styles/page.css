@@ -10,3 +10,17 @@
 a {
     color: #e5e5e5;
 }
+
+/*responsive tablette et tel*/
+@media screen and (max-width: 1024px) {
+    .photo {
+        
+    }
+}
+/*responsive tel*/
+@media screen and (max-width: 767) {
+    header {
+        display: flex;
+        flex-direction: row;
+    }
+}
