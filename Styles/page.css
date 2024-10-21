@@ -1,9 +1,12 @@
 * {
     background-color: #041821;
-    color: white;
     font-family: Yeseva One;
 }
 
 .couleur_texte {
     color: #1bd79e;
+}
+
+a {
+    color: #e5e5e5;
 }
